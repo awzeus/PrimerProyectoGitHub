@@ -78,4 +78,5 @@
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="20dp"
                 android:text="Otra cosa" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
